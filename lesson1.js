@@ -41,16 +41,16 @@
 
 //***6**
 //Поверніть випадкове число в діапазоні від 2 до 4
-console.log(Math.floor(Math.random() * (4 - 2) + 2));
+// console.log(Math.floor(Math.random() * (4 - 2) + 2));
 
 //***7**
 //дізнатись довжину message
 // const message = "Welcome to Bahamas!";
-console.log(message.length);
+// console.log(message.length);
 
 //***8**
 //вивести в консоль message  великими літерами
-console.log(message.toUpperCase());
+// console.log(message.toUpperCase());
 
 //***9**
 // створити пустий об*єкт
@@ -59,15 +59,15 @@ console.log(message.toUpperCase());
 // видалити місто
 // додати буль з ключем: like flowers
 // вивести результат в консоль
-let person = {};
-person.name = "Ievgen"
-person.age = 30
-person.city = "Kiev"
+// let person = {};
+// person.name = "Ievgen"
+// person.age = 30
+// person.city = "Kiev"
 
-console.log(person);
-//***10**
-// За допомогою циклу  “for…in” вивести в консоль ключі і значення об*єкта
-for (key in person) {
-    console.log(key);
-    console.log(person[key]);
-}
+// console.log(person);
+// //***10**
+// // За допомогою циклу  “for…in” вивести в консоль ключі і значення об*єкта
+// for (key in person) {
+//     console.log(key);
+//     console.log(person[key]);
+// }
